@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="byte-buddy-1.10.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/2CS_SIL-20191014T093738Z-001/2CS_SIL/S1/OUTILS-Outils_GL/TP1/TP 1/TP 1/src &amp; libs/Exo 3/libs/byte-buddy-1.10.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/2CS_SIL-20191014T093738Z-001/2CS_SIL/S1/OUTILS-Outils_GL/TP1/TP 1/TP 1/src &amp; libs/Exo 3/libs/byte-buddy-agent-1.10.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/2CS_SIL-20191014T093738Z-001/2CS_SIL/S1/OUTILS-Outils_GL/TP1/TP 1/TP 1/src &amp; libs/Exo 3/libs/mockito-core-3.1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/2CS_SIL-20191014T093738Z-001/2CS_SIL/S1/OUTILS-Outils_GL/TP1/TP 1/TP 1/src &amp; libs/Exo 3/libs/objenesis-3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

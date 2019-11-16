@@ -1,0 +1,38 @@
+
+[squid:S1854f"8Remove this useless assignment to local variable "USER".(•ùøÆşÿÿÿÿ8€ŞÏİæ-
+usquid:S00117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ùøÆşÿÿÿÿ8€ŞÏİæ-
+_squid:HiddenFieldCheck5"6Rename "db" which hides the field declared at line 20.(¬éÃ‡8ø™òÛæ-
+Jsquid:S1481{"'Remove this unused "rs" local variable.(ÊõŞàşÿÿÿÿ8­ÁéÜæ-
+csquid:S1192""LDefine a constant instead of duplicating this literal "Belle ville" 8 times.(ïÂ¯
+msquid:HiddenFieldCheckg"?Rename "JDBC_DRIVER" which hides the field declared at line 22.(äÃ„Õùÿÿÿÿ8€ŞÏİæ-
+jsquid:S00112Q"FDefine and throw a dedicated exception instead of using a generic one.(°Íœ°ûÿÿÿÿ8¹Ú–Üæ-
+nsquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(Ø€ä±ıÿÿÿÿ8¹Ú–Üæ-
+msquid:HiddenFieldCheck1"?Rename "JDBC_DRIVER" which hides the field declared at line 22.(äÃ„Õùÿÿÿÿ8£óÛæ-
+Lsquid:S1481f")Remove this unused "USER" local variable.(•ùøÆşÿÿÿÿ8€ŞÏİæ-
+Ysquid:S3416"6Update this logger to use "DatabaseServiceTest.class".(ö¼›÷úÿÿÿÿ8ª¢¬İæ-
+hsquid:HiddenFieldCheck2":Rename "DB_URL" which hides the field declared at line 23.(°î®Óşÿÿÿÿ8£óÛæ-
+Lsquid:S14810")Remove this unused "USER" local variable.(•ùøÆşÿÿÿÿ8òù„Üæ-
+_squid:HiddenFieldChecki"6Rename "db" which hides the field declared at line 20.(ŞªëÇ8€ŞÏİæ-
+jsquid:S2095S"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8¹Ú–Üæ-
+[squid:S18540"8Remove this useless assignment to local variable "USER".(•ùøÆşÿÿÿÿ8òù„Üæ-
+¥%squid:RedundantThrowsDeclarationCheckŒ"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(«¤ÜÕ8­ÁéÜæ-
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(‚ëô¡şÿÿÿÿ
+usquid:S00117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°î®Óşÿÿÿÿ8€ŞÏİæ-
+usquid:S00117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÃ„Õùÿÿÿÿ8€ŞÏİæ-
+jsquid:S2095s"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8­ÁéÜæ-
+usquid:S001171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÃ„Õùÿÿÿÿ8ˆšôÛæ-
+fsquid:S00112Œ"FDefine and throw a dedicated exception instead of using a generic one.(«¤ÜÕ8­ÁéÜæ-
+usquid:S001170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ùøÆşÿÿÿÿ8¤óóÛæ-
+¶%squid:RedundantThrowsDeclarationCheck/"yRemove the declaration of thrown exception 'org.h2.jdbc.JdbcSQLException' which is a subclass of 'java.sql.SQLException'.(ë°˜¡øÿÿÿÿ8ÓÙŸÜæ-
+fsquid:HiddenFieldCheck0"8Rename "USER" which hides the field declared at line 21.(•ùøÆşÿÿÿÿ8£óÛæ-
+hsquid:HiddenFieldCheckh":Rename "DB_URL" which hides the field declared at line 23.(°î®Óşÿÿÿÿ8€ŞÏİæ-
+Ysquid:S1854{"6Remove this useless assignment to local variable "rs".(ÊõŞàşÿÿÿÿ8­ÁéÜæ-
+fsquid:HiddenFieldCheckf"8Rename "USER" which hides the field declared at line 21.(•ùøÆşÿÿÿÿ8€ŞÏİæ-
+fsquid:HiddenFieldCheckj"8Rename "conn" which hides the field declared at line 18.(ü ‚Úıÿÿÿÿ8€ŞÏİæ-
+Esquid:S14815"'Remove this unused "db" local variable.(¬éÃ‡8ø™òÛæ-
+jsquid:UselessImportCheck	":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8›…Ûæ-
+usquid:S001172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°î®Óşÿÿÿÿ8ìÈôÛæ-
+Csquid:S2068b" Remove this hard-coded password.(Ó¬üËıÿÿÿÿ8áîèÜæ-
+]squid:S1192""FDefine a constant instead of duplicating this literal "Alger" 5 times.(ïÂ¯
+jsquid:S2095{"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÊõŞàşÿÿÿÿ8­ÁéÜæ-
+Tsquid:S18545"6Remove this useless assignment to local variable "db".(¬éÃ‡8ø™òÛæ-

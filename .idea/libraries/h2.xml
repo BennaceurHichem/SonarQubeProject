@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="h2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/2CS_SIL-20191014T093738Z-001/2CS_SIL/S1/OUTILS-Outils_GL/TP3/TP3/lib/h2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/2CS_SIL-20191014T093738Z-001/2CS_SIL/S1/OUTILS-Outils_GL/TP3/TP3/lib/mysql-connector-java-5.1.45-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
